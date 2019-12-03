@@ -16,3 +16,5 @@ git add * (insere todos os arquivos)
 q para sair do git log
 
 git push (para enviar para o repositorio)
+
+git pull (sincroniza alterações feitas no github com o repositório local)
