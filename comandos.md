@@ -11,8 +11,8 @@ git commit -m "comentário" nome
 
 git log (indica o histórico)
 
-git add * (inserem todos os arquivos)
+git add * (insere todos os arquivos)
 
 q para sair do git log
 
-git push (para enviar para o repositorio
+git push (para enviar para o repositorio)
